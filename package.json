@@ -1,0 +1,21 @@
+{
+  "name": "terminal-fire-lock",
+  "version": "1.0.0",
+  "description": "A fun way to lock your terminal, prank your friends, or keep pranksters at bay. Features a mesmerizing flame animation with passphrase unlock.",
+  "main": "tfl.js",
+  "bin": {
+    "terminal-fire-lock": "./tfl.js",
+    "tfl": "./tfl.js"
+  },
+  "scripts": {
+    "start": "node tfl.js"
+  },
+  "keywords": ["prank", "terminal", "cli", "flame", "lock", "screen-lock", "fun", "ascii-art", "animation"],
+  "author": "",
+  "license": "WTFPL",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/haricane8133/terminal-fire-lock"
+  },
+  "dependencies": {}
+}
